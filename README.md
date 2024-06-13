@@ -11,10 +11,10 @@ Dedicated cybersecurity professional with hands-on experience in penetration tes
 
 Identified critical vulnerabilities including outdated software, weak passwords, and misconfiguration. Provided detailed reports and recommendations for remediation to the client.
 
-CVEs Found:
-- CVE-2024-36597: Life Insurance Management System- SQL injection vulnerability.
-- CVE-2024-36598: Life Insurance Management System- Unauthenticated Remote Code Execution (RCE).
-- CVE-2024-36599: Life Insurance Management System- cross-site scripting (XSS).
+- CVEs Found:
+  - CVE-2024-36597: Life Insurance Management System- SQL injection vulnerability.
+  - CVE-2024-36598: Life Insurance Management System- Unauthenticated Remote Code Execution (RCE).
+  - CVE-2024-36599: Life Insurance Management System- cross-site scripting (XSS).
   
 ## Tools
 - Nmap: Advanced - Network scanning
