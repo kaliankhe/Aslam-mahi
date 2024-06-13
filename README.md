@@ -12,9 +12,11 @@ Dedicated cybersecurity professional with hands-on experience in penetration tes
 Identified critical vulnerabilities including outdated software, weak passwords, and misconfiguration. Provided detailed reports and recommendations for remediation to the client.
 
 - CVEs Found:
-  - CVE-2024-36597: Life Insurance Management System- SQL injection vulnerability.
-  - CVE-2024-36598: Life Insurance Management System- Unauthenticated Remote Code Execution (RCE).
-  - CVE-2024-36599: Life Insurance Management System- cross-site scripting (XSS).
+  - Life Insurance Management System- SQL injection vulnerability. <a href="https://github.com/kaliankhe/CVE-Aslam-mahi/blob/9ec0572c68bfd3708a7d6e089181024131f4e927/vendors/projectworlds.in/AEGON%20LIFE%20v1.0%20Life%20Insurance%20Management%20System/CVE-2024-36597">CVE-2024-36597</a>
+  - Life Insurance Management System- Unauthenticated Remote Code Execution (RCE). <a href="https://github.com/kaliankhe/CVE-Aslam-mahi/blob/9ec0572c68bfd3708a7d6e089181024131f4e927/vendors/projectworlds.in/AEGON%20LIFE%20v1.0%20Life%20Insurance%20Management%20System/CVE-2024-36598![image](https://github.com/kaliankhe/Aslam-mahi/assets/137717528/539af312-a6f6-4b65-9acd-e7d6b61a530c)
+">CVE-2024-36598</a>
+  - Life Insurance Management System- cross-site scripting (XSS). <a href="https://github.com/kaliankhe/CVE-Aslam-mahi/blob/9ec0572c68bfd3708a7d6e089181024131f4e927/vendors/projectworlds.in/AEGON%20LIFE%20v1.0%20Life%20Insurance%20Management%20System/CVE-2024-36599![image](https://github.com/kaliankhe/Aslam-mahi/assets/137717528/ff44000d-350b-4d11-ac67-e84050688aae)
+">CVE-2024-36599</a>
   
 ## Tools
 - Nmap: Advanced - Network scanning
